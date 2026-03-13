@@ -1,0 +1,16 @@
+package com.kh.second;
+
+public class Run {
+	public static void main(String[] args) {
+		//printMyName();
+		// 외부 클래스의 해당 변수를 호출하고 싶다.
+		/*
+		 * 외부 클래스에 메소드를 호출할 때는 메소드가 존재하는 클래스를 생성(new) 해줘야 한다.
+		 * [포현법]
+		 * "클래스 이름
+		 *  클래스이름을 대신할 별칭" = new
+		 */
+		PrintController pc = new PrintController();
+		pc.printMyname();
+	}
+}

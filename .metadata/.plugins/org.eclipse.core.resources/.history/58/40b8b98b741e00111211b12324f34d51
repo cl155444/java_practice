@@ -1,0 +1,8 @@
+package com.kh.second;
+
+public class Run {
+	public static void main(String[] args) {
+		// printMyName();
+		// 외부 클래스의 해당 변수를 호출하고 싶다.
+	}
+}

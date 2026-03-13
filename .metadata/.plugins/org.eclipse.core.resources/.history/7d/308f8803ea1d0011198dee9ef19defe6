@@ -1,0 +1,13 @@
+package com.kh.first; // 패키지 선언부 = 현재 클래스의 위치
+	/*
+	 * 여러 줄 주석 연습
+	 * 코드 작성 후 작성한 코드를 쉽게 이해하기 위함
+	 * 주석을 달아 유지보수시간을 줄이는 것이 목적
+	 */
+
+public class HelloWorld  {
+	public static void main(String[] args) {
+	
+
+	}
+}

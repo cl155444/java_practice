@@ -1,0 +1,8 @@
+package com.kh.first; // 패키지 선언부 = 현재 클래스의 위치
+	/*
+	 * 여러 줄 주석 연습
+	 */
+
+public class HelloWorld { 
+
+}

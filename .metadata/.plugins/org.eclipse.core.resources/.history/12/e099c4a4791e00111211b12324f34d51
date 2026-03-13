@@ -1,0 +1,9 @@
+package com.kh.constant;
+
+public class constant {
+	// 상수
+	public static void main(String[] args) {
+		//정수
+		System.out.print(486);
+	}
+}
