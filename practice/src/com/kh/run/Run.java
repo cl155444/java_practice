@@ -1,13 +1,13 @@
 package com.kh.run;
 
-import com.kh.loop.WhileSum;
+import com.kh.loop.WhileMenu;
 
 public class Run {
 
 	public static void main(String[] args) {
 		//ForMultiple fm = new ForMultiple();
 		//fm.printMultiple();
-		WhileSum fc = new WhileSum();
-		fc.sumTest();
+		WhileMenu wm = new WhileMenu();
+		wm.menuTest();
 	}
 }
